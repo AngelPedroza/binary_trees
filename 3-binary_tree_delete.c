@@ -2,7 +2,7 @@
 
 /**
  * binary_tree_insert_right - Function that deletes an entire binary tree
- * @tree - Root node of the binary tree
+ * @tree: Root node of the binary tree
  *
  * Return: Nothing
  */
