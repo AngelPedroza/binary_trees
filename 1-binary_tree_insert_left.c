@@ -2,9 +2,8 @@
 
 /**
  * binary_tree_insert_left - Function that inserts a node as left-child
- * @parent - Parent node of the node to create
- * @value - Value of the new node
- *
+ * @parent: Parent node of the node to create
+ * @value: Value of the new node
  * Return: Address of the new node
  */
 
