@@ -1,9 +1,10 @@
 #include "binary_trees.h"
 
 /**
- * binary_tree_height -
- * @tree -
- * Return:
+ * binary_tree_uncle - Function that finds the uncle of a node
+ * @node: Node to find the uncle
+ *
+ * Return: Pointer to the uncle of the node
  */
 
 binary_tree_t *binary_tree_uncle(binary_tree_t *node)
