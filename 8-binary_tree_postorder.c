@@ -1,10 +1,11 @@
 #include "binary_trees.h"
 
 /**
- * binary_tree_postorder -
- * @parent -
- * @value -
- * Return:
+ * binary_tree_postorder - Function that through a BT with post-order traversal
+ * @tree: Root node of the tree to traverse
+ * @func: Function that print number
+ *
+ * Return: Nothing
  */
 void binary_tree_postorder(const binary_tree_t *tree, void (*func)(int))
 {
